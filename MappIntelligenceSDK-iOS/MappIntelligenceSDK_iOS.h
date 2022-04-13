@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import <MappIntelligenceSDK_iOS/MappIntelligenceiOS.h>
+#import <MappIntelligenceSDK_iOS/MIFormField.h>
 
 //! Project version number for MappIntelligenceSDK_iOS.
 FOUNDATION_EXPORT double MappIntelligenceSDK_iOSVersionNumber;
